@@ -1,2 +1,2 @@
 # cmd_line_guide
-Learning command line
+Learning command line tools
